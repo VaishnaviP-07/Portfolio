@@ -1,3 +1,5 @@
+live-demo:https://vaishnavip-07.github.io/Portfolio/
+
 # Vaishnavi K P - Award-Winning Portfolio Website
 
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript. The design is based on the Figma design with a focus on luxury aesthetics, smooth animations, and excellent user experience.
